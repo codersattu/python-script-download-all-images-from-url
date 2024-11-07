@@ -1,4 +1,4 @@
-# Project Title: Web Image Scraper for Downloading JPEG and PNG Images
+# Web Image Scraper for Downloading JPEG and PNG Images
 
 ## Project Description:
 
